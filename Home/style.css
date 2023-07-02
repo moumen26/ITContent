@@ -891,18 +891,20 @@ footer {
   }
 
   .timer-container {
-    width: 80%;
+    width: 90%;
     height: 94px;
+    padding-left: 4%;
   }
 
   .timer-container i {
-    font-size: 50px;
+    font-size: 40px;
   }
 
   .about-event {
     height: fit-content;
     flex-direction: column;
   }
+
 
   .about-event-left-panel {
     width: 100%;
